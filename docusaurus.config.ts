@@ -60,8 +60,8 @@ const config: Config = {
     navbar: {
       title: 'Wiki-iOS',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Wiki-iOS',
+        src: 'img/xcode.svg',
       },
       items: [
         {
