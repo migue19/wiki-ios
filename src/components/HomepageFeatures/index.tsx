@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Swift',
-    Svg: require('@site/static/img/swift.svg').default,
+    Svg: require('@site/static/img/swift-1.svg').default,
     description: (
       <>
         Swift es un lenguaje de programación multiparadigma creado por Apple enfocado en el desarrollo de aplicaciones para iOS y macOS.
