@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Wiki-iOS',
-  tagline: 'wiki-ios',
+  tagline: 'Documentación para programadores iOS.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

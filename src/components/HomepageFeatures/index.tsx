@@ -10,32 +10,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Swift',
+    Svg: require('@site/static/img/swift.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Swift es un lenguaje de programación multiparadigma creado por Apple enfocado en el desarrollo de aplicaciones para iOS y macOS.
+        Fue presentado en la WWDC 2014​ y está diseñado para integrarse con los Frameworks Cocoa y Cocoa Touch.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Xcode',
+    Svg: require('@site/static/img/xcode.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Xcode es un entorno de desarrollo integrado para macOS que contiene un conjunto de herramientas
+        creadas por Apple destinadas al desarrollo de software para macOS, iOS, watchOS y tvOS.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'iOS',
+    Svg: require('@site/static/img/ios-1.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        iOS es un sistema operativo móvil de código cerrado desarrollado por Apple Inc.
+        Originalmente desarrollado para el iPhone, después se utilizó en dispositivos como el iPod touch y el iPad.
       </>
     ),
   },
