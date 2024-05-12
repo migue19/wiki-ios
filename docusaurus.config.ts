@@ -81,11 +81,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Documentación',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Swift',
+              to: 'https://developer.apple.com/swift/',
             },
           ],
         },
@@ -109,10 +109,6 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/',
