@@ -19,9 +19,9 @@
 
 ```bash
 # En la raíz del proyecto Xcode del Pod
-xcrun agvtool new-marketing-version 1.1.4
+agvtool new-marketing-version 1.1.4
 # (Opcional) Aumenta build number si usas CURRENT_PROJECT_VERSION
-xcrun agvtool new-version 114
+agvtool new-version 114
 ```
 
 **Podspec**
